@@ -1,4 +1,4 @@
-# enterprise-bert
+# BERT (Paired-Programming Exercise)
 
 Use Google Colab for this Lab.
 
